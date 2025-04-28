@@ -1,4 +1,4 @@
-# Simple Shell
+# simple-shell
 
 A basic shell implementation in C that can execute commands and handle process control.
 
